@@ -1,0 +1,27 @@
+
+#homeText{
+    text-align: center;
+    color: pink;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.recipes{
+    text-align: center;
+    font-size: 100px;
+    ;
+}
+body {
+    background: linear-gradient(to bottom, white, pink);
+    padding-bottom: 65%;
+}
+button {
+    background-color: pink;
+} 
+#creator{
+    text-align: center;
+    margin-top: 700px;
+    font-size: 32px;
+    color: rgb(247, 109, 132);
+
+}
+
